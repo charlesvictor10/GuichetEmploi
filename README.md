@@ -1,6 +1,6 @@
-# GuichetEmploi__
+# GuichetEmploi
 
-Description du projets__
+__*Description du projets*__
 
 __*Guichet de l'emploi*__ est une application développée dans le but de faciliter l'accès à l'emploi pour les jeunes. L'application permet aux entreprises de publier leurs offres d'emplois sur la plateforme et offre aux jeunes la possibilité de postuler via la plateforme ou bien directement sur le site de l'entreprise.
 
